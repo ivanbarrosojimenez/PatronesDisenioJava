@@ -1,5 +1,7 @@
-package builder;
+package pruebas;
 
+import builder.ClaseBuilder;
+import builder.ClaseBuilder.Builder;
 
 public class PruebaPatronBuilder {
 
